@@ -1,0 +1,92 @@
+Travail pratique  # 1 en 420-5RL-HY
+
+À remettre le : 18 septembre 2014
+
+
+
+
+
+Remettre sur LEA seulement….			En équipe de 2max
+
+Au premier cours, je vous ai tracé les grandes lignes de l’analyse structurée. Au second cours, via le site www.webprofesseur.com, on a vu une méthode d’analyse structurée. Faites des recherches sur le Net afin de trouver une autre méthode et pour celle-ci, répondre aux questions suivantes :
+
+No.1 (4 points) Pour chacune des étapes de la méthodologie que vous aurez trouvé,  donnez :
+
+-	Une description complète
+-	Une liste de tâches inhérentes à cette étape
+-	Les buts et objectifs de cette étape
+-	Le(s) livrable(s) à la fin de chacune des étapes.
+
+Agile
+ Agile se base sur une méthode parallèle et non séquentiel comme le SDLC. Il est surtout utilisé dans le développement de « Software » mais peut être appliqué à tout type de projet. Vu que le client est incapable d’exprimer ses besoins, les méthodes prennent toutes leurs sens, elles permettent une grande capacité aux changements tout au long de sa conception.
+
+ Pour la phase de la définition, la méthode poker va nous être utile. En utilisant des cartes pour définir le temps et la complexité des idées discutées pendant les séances. Cela permet d’avoir le point de vue de chaque personne
+ 
+Le déroulement :
+On fait un « brainstorm » pour définir les différents aspects du système a concevoir. Ensuite, le chef de projet propose chaque idée au groupe. Après avoir discuté des exigences, chaque personne doit voter et utilisé un carte pour démontrer, selon son avis personnel, le dégré de complexité de l’idée. On met la carte face au bureau. On dévoile les résultats en même, on en discute et on choisi si le met dans le « Product Backlog» (les tâches prioritaires du produit)
+.
+Pour la phase du développement avec Scrum, on commence par produire  une version minimale pour ensuite lui ajouter de nouvelles fonctionnalités jusqu’à ce que le client soit satisfait. Scrum n’est pas une méthode mais plus un cadre méthodologique, elle ne permet pas de définir des étapes, mais comment surmonter les obstacles, comment développer, etc… Pour cela Scrum est divisé en plusieurs cycle de travail qui permet de travailler sur la conception tout en développant le produit, le but est de le finaliser le plus rapidement possible.
+
+Cycle de travail
+
+Backlog produit :
+	Contient tous les fonctionnalités primaires du nouveau système, Il est la première 	liste de tâche à faire durant le processus du développement.
+
+Planification du sprint :
+Permet de céduler le temps que le sprint va durer et des tâche à effectuer dans le Backlog produit. En accord avec le client et les membres de l’équipes.
+
+Backlog sprint :
+A la même fonctionnalité que le Backlog produit mais contient uniquement les exigences discutés pendant la planification.
+
+Sprint : 
+Lors du Sprint, on conçoit les éléments du Backlog sprint.
+
+Mélée quotidienne :
+	Réunion de 15 min où les chefs de projet répondent à trois questions :
+		-Qu’est-ce que j’ai terminé depuis la dernière mêlée ? 
+-Qu’est-ce que j’aurai terminé d’ici la prochaine mêlée ?
+-Quels obstacles me retardent ? »
+
+Revue du sprint :
+Réunion qui se déroule à la fin d’un sprint. On passe en revue tous les fonctionnalités du système partiel et on recueille les « feedbacks » du client et des utilisateurs
+
+
+
+Rétrospective du sprint :
+Ce passe après la revue du sprint. Il est temps que l’on parle des améliorations que l’on pourrait faire que ce soit du niveau de la production, efficacité, conditiond de travail, etc… Suite à l’expérience du sprint vécu
+
+ 
+
+
+No.2 (4 points) Produire un exemple complet en réseautique où vous indiquerez les différents étapes au travers votre exemple.
+
+Mise à niveau des postes de Windows XP à Windows 7 dans une grande entreprise.
+
+Début des réunions, à durer indéterminées, avec le client et les membres de l’équipe pour déterminer l’ampleur du projet. Cette réunion ce fait avec la méthode « Poker ». On commence par un « remue-ménage » et chaque idée est inscrite sur une liste. 
+-Nouveaux matériels
+-On garde le même matériel
+-On commence par un petit secteur de l’informatique
+-Création d’une zone test
+-Nouveaux logiciels
+-Adaptation des anciens logiciels
+-etc…
+
+Lorsque la liste est complétée, on passe au vote pour déterminer, par rapport à la complexité et le temps de conception, quelles idées vont faire partis du « Backlog produit ». Grâce aux cartes de la méthode « Poker » chaque personne est libre de son opinion. Quand le « Backlog produit » est finalisé on passe au développement. 
+
+On débute par la planification du sprint. On détermine sa durer, habituellement cela dure de 2 à 4 semaines. On identifie les points essentiels du « Backlog produit » pour les ajouter dans le « Backlog sprint », les tâches que va devoir faire l’équipe de développement pendant la durée du sprint. 
+	
+Début du sprint, l’équipe de développement commence à travailler sur le projet, la migration sur Windows 7 s’effectue. L’équipe se réuni une fois par jour pour une réunion de 15 min pour définir les éléments compléter dans les dernière 24h, les nouveaux objectif de la journée et les difficultés rencontrer. À la fin du sprint, on passe en en revue tout ce qui a été fait durant les sprints. On fait la formation des employés et on prend leurs commentaires. Si tout va bien dans le l’environnement test, on peut le migrer dans toute la compagnie, sinon on refait un sprint pour corriger les problèmes
+
+Pour finir, on repasse tous les commentaires reçus et les erreurs arrivées pendant le sprint. 
+On pense aux modifications que l’on pourrait faire et aux supports aux usagés.
+
+
+
+
+
+
+No.3 (2 points) Décrire en détails ce qu’on entend par « cycle de vie d’un système informatique »
+
+Le cycle de vie d’un système informatique contient 4 phases distinctes. La première est la phase de définition, elle permet, grâce aux besoins exprimés par les clients, de juger de la faisabilité et la pertinence du projet. C’est à ce moment qu’une ébauche, de notre produit final, est assemblée et nous décidons si on doit continuer le projet. Il débute par une étude d’opportunité et se finit par le lancement du projet. Si notre projet passe ces deux étapes, on passe à la phase du développement. Maintenant, il faut que l’on conçoive le produit. Les règles générales et spécifiques sont établies. On commence à développer notre système informatique et on le teste. Durant cette phase, il est courant qu’il que certains éléments change, il faut que l’on s’adapte au changement. Un cahier de charge est monté pour suivre l’évolution du produit. À la fin du développement, on passe a mise en œuvre et à l’implémentation du nouveau système et on débute la phase de l’exploitation (ou utilisation). C’est ta se moment que l’on procède à la formation des employés et doit fournir un service d’assistance. La quatrième phase, celle de la maintenance, permet maintenir le nouveau système actif et le faire évoluer au besoin. La dernière phase dure jusqu’à ce qu’on le retire. On retourne à la phase développement, si une deuxième version est demandé.
+
+
